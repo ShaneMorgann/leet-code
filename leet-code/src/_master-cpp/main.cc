@@ -1,8 +1,8 @@
 #include "./solutions.hh"
 
-namespace Solution = _0001;
+namespace solution = _0001;
 
 int main(){
-    Solution::run();
+    solution::run();
     return 0;
 }
