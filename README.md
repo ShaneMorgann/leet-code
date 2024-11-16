@@ -19,7 +19,7 @@ This repository serves as a catalog of my [leetcode.com](https://leetcode.com/) 
 In `/src/_master-cpp/main.cc` change the `solution` variable to the desired solution. Solutions available can be referenced in `src/_master-cpp/solutions.hh`
 
 **Linux:**
-<br>This project uses make. Navigate to the projects .build directory and execute 'build' or 'run'. 'run' will first build the project before running.
+<br>This project uses make. Navigate to the project's `.build` directory and execute `make build` or `make run`. `make run` will first build the project before running.
 <br>
 ```
 cd leet-code/.build
